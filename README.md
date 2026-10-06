@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Anderson 👋
 
-<!--
-**anderhong/anderhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML/Data Engineer** with 15+ years of experience building production-grade AI systems and data platforms.
 
-Here are some ideas to get you started:
+📍 Auckland, New Zealand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [**Image RAG**](https://github.com/anderhong/image-rag) | Text → Image & Image → Image Search API | CLIP, FastAPI, PyTorch |
+| [**Face RAG**](https://github.com/anderhong/face-rag) | Face Search in Group Photos | FaceNet, MTCNN, FastAPI |
+| [**Multi-Agent System**](https://github.com/anderhong/multi-agent-system) | Supervisor pattern with specialist agents | LangGraph, Ollama |
+| [**Ray Serve + MLflow**](https://github.com/anderhong/ray-serve-mlflow) | End-to-end MLOps Pipeline | Ray Serve, MLflow, FastAPI |
+
+---
+
+## 🛠️ Tech Stack
+
+**AI/ML**: CLIP · FaceNet · LangGraph · LangChain · Ollama · Ray Serve · MLflow
+
+**Backend**: FastAPI · Python · REST APIs · Docker
+
+**Data**: SQL · ETL · Data Warehouse · BI
+
+**Cloud**: AWS · Azure · GCP (basics)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-chan-116a5014)
+
+---
+
+⭐️ Feel free to explore my projects!
