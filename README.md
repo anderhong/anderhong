@@ -21,6 +21,8 @@
 
 **AI/ML**: CLIP · FaceNet · LangGraph · LangChain · Ollama · Ray Serve · MLflow
 
+**Frontend**: React · TypeScript · Vite
+
 **Backend**: FastAPI · Python · REST APIs · Docker
 
 **Data**: SQL · ETL · Data Warehouse · BI
