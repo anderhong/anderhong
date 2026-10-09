@@ -14,7 +14,7 @@
 | [**Face RAG**](https://github.com/anderhong/face-rag) | Face Search in Group Photos | FaceNet, MTCNN, FastAPI |
 | [**Multi-Agent System**](https://github.com/anderhong/multi-agent-system) | Supervisor pattern with specialist agents | LangGraph, Ollama |
 | [**Ray Serve + MLflow**](https://github.com/anderhong/ray-serve-mlflow) | End-to-end MLOps Pipeline | Ray Serve, MLflow, FastAPI |
-
+| [**Login App**](https://github.com/anderhong/login-app) | Login/Register App | React, TypeScript, Vite |
 ---
 
 ## 🛠️ Tech Stack
